@@ -46,11 +46,15 @@
                      ],
     "st-marys-knanaya-church":  [
                                     "assets/images/gallery/st-marys-knanaya-church/1.jpeg",
-                                    "assets/images/gallery/st-marys-knanaya-church/2.jpeg"
+                                    "assets/images/gallery/st-marys-knanaya-church/2.jpeg",
+                                    "https://youtu.be/DyEArDEf0hQ?si=P73FjMuhW1BpF0c0",
+                                    "https://youtu.be/R9vljGAB3M8?si=Nagf9pRLacpAPM8m"
                                 ],
     "suite-president":  [
                             "assets/images/gallery/suite-president/1.jpeg",
-                            "assets/images/gallery/suite-president/2.jpeg"
+                            "assets/images/gallery/suite-president/2.jpeg",
+                            "https://youtu.be/WbkY2_QZncY?si=BDMaF_zF10EULap5",
+                            "https://youtu.be/wjTsYstcWjQ?si=tnYg39wokR8_Cf4d"
                         ],
     "suresh-gopi-residence":  [
 
