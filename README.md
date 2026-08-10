@@ -16,7 +16,7 @@ Each project on the Portfolio page can show a single photo (the default) or a fu
    - `assets/images/gallery/mar-sleeva-convention-centre/`
    - `assets/images/gallery/st-marys-knanaya-church/`
 2. Drop the photo(s) for that project into its folder. Name them so alphabetical order matches the order you want them to appear in, e.g. `01.jpg`, `02.jpg`, `03.jpg`.
-3. Double-click `update-gallery.bat` in this folder. It scans every gallery folder and regenerates `assets/js/gallery-manifest.js`, which is what the site actually reads — dropping a photo into a folder alone does nothing until this step runs.
+3. Double-click `update-gallery.bat` in this folder. It scans every gallery folder and regenerates `assets/js/gallery-manifest.js`, which is what the site actually reads — dropping a photo into a folder alone does nothing until this step runs.So do it.
 4. Refresh the page. Any project with 2+ photos now shows a "N photos" badge on its thumbnail, and its Gallery button opens a carousel with arrows, dots, keyboard arrow-key navigation, and swipe-to-navigate on mobile. Projects still at 0 or 1 photo behave exactly as before (single image, no carousel controls).
 
 Supported file types: `.jpg`, `.jpeg`, `.png`, `.webp`,  `.mp4`.
